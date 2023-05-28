@@ -1,0 +1,20 @@
+.modal{
+    width: 500px;
+    height: 500px;
+    background-color: rgba(0,0,0,0.4);
+    position: absolute;
+    left:30%;
+    display: none;
+}
+.extBtn{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+    color: rgba(0,0,0,0.9);
+    cursor: pointer;
+    display: block;
+    margin-left:90%;
+    margin-right: 5%;
+}
+.userInteraction{
+    margin:50px 0;
+}
