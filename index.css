@@ -1,0 +1,7 @@
+.post{
+    border: 2px solid black;
+    margin:3% 0%;
+    padding: 2%;
+    border-radius: 5%/10%;
+    background-color: cadetblue; 
+}
