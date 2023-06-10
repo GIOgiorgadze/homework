@@ -1,0 +1,22 @@
+{
+  "name": "some-npm",
+  "version": "1.0.0",
+  "description": "homework10",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GIOgiorgadze/homework.git"
+  },
+  "author": "Giorgi Giorgadze",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GIOgiorgadze/homework/issues"
+  },
+  "homepage": "https://github.com/GIOgiorgadze/homework#readme",
+  "dependencies": {
+    "validator": "^13.9.0"
+  }
+}
